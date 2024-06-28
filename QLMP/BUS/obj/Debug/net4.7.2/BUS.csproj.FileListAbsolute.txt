@@ -1,0 +1,299 @@
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.pdb
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\BUS.dll
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\BUS.pdb
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DAL.dll
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DTO.dll
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DAL.pdb
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DTO.pdb
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.dll
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.pdb
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\BUS.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\BUS.pdb
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Memory.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\DAL.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\DTO.dll
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\DAL.pdb
+D:\tai lieu thi\mau\SPA\BUS\bin\Debug\net4.7.2\DTO.pdb
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.dll
+D:\tai lieu thi\mau\SPA\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Users\ad\Downloads\Compressed\QLMP\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+D:\HK 7\CT6 ATBM\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+D:\HK 7\CT6 ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+E:\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+E:\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+D:\HK 7\CT6 ATBM\8 11\ATBM\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Nam 4\BaomatHTTT\CHODUCNGU\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Nam 4\BaomatHTTT\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\ad\Downloads\new\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Users\ad\Downloads\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\HP\Downloads\new\new\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Users\HP\Downloads\new\new\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\EntityFramework.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Buffers.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Memory.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Text.Json.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\System.ValueTuple.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\obj\Debug\net4.7.2\BUS.pdb
+C:\Users\HP\Downloads\new\new\QLMP_up\QLMP\BUS\bin\Debug\net4.7.2\Microsoft.Office.Interop.Excel.dll
